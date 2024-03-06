@@ -11,3 +11,12 @@ Using any datasets I can get my hands on I will attempt to extract all person en
 * Historical research / verification
 * Genealogical research
 * Research related to name propogation, spread of telephone communication, etc.
+
+
+### Potential sources / inspiration
+
+[Genealogy Indexer](https://genealogyindexer.org/directories)
+
+[Forebears Name Database](https://forebears.io/)
+
+[Google NGrams Raw Data](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html)
