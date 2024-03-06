@@ -20,3 +20,5 @@ Using any datasets I can get my hands on I will attempt to extract all person en
 [Forebears Name Database](https://forebears.io/)
 
 [Google NGrams Raw Data](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html)
+
+[Nazi Death Book Poland](https://www.sbc.org.pl/dlibra/publication/edition/24330)
